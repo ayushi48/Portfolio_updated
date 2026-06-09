@@ -813,12 +813,14 @@ const projects = [
     link: "https://ayushikumari.me/",
     status: "complete",
     item: [
-      { id: 1, img: "https://res.cloudinary.com/dejblby8o/image/upload/v1753783511/profile2_kqkxil.png" },
-      { id: 2, img: "https://res.cloudinary.com/dejblby8o/image/upload/v1753783509/profile3_ne54gu.png" },
-      { id: 3, img: "https://res.cloudinary.com/dejblby8o/image/upload/v1753783509/profile1_bvsebo.png" },
-      { id: 4, img: "https://res.cloudinary.com/dejblby8o/image/upload/v1753783821/profile4_nrhyx3.png" },
+      { id: 1, img: "https://res.cloudinary.com/dyjgl5yrr/image/upload/v1781014309/Screenshot_2026-06-09_191806_b26mrq.png" },
+      { id: 2, img: "https://res.cloudinary.com/dyjgl5yrr/image/upload/v1781014309/Screenshot_2026-06-09_191825_d9bmzv.png" },
+      { id: 3, img: "https://res.cloudinary.com/dyjgl5yrr/image/upload/v1781014308/Screenshot_2026-06-09_191843_pqyhdp.png" },
+      { id: 4, img: "https://res.cloudinary.com/dyjgl5yrr/image/upload/v1781014309/Screenshot_2026-06-09_191924_ffe54z.png" },
+      { id: 5, img: "https://res.cloudinary.com/dyjgl5yrr/image/upload/v1781014308/Screenshot_2026-06-09_191910_g2whqm.png" },
+      { id: 6, img: "https://res.cloudinary.com/dyjgl5yrr/image/upload/v1781014311/Screenshot_2026-06-09_191943_fue1ga.png" },
     ],
-    source_code_link: "https://github.com/shubham-kumar145/Portfolio-sk",
+    source_code_link: "https://github.com/ayushi48/Portfolio_updated",
   },
   // 5
   {
