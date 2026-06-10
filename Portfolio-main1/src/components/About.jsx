@@ -201,8 +201,8 @@ const About = () => {
   // const drivelink =
   //   "https://drive.google.com/uc?export=download&id=1b1JAFMF-hRn3FMlYN_3si5vRy_b8cKcM";
 
-            const drivelink =
-    "https://drive.google.com/uc?export=download&id=1ZgNC8AShGjWzQNS2u28HtoYAPDBDr8sO";
+const drivelink =
+  "https://drive.google.com/uc?export=download&id=1FkVKNVM7ktzwqPhn0xKGw-nY9KA6yAYg";
 
   const [viewwhich, setViewwhich] = useState(false);
 
