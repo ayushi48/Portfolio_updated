@@ -1,98 +1,202 @@
-# 🚀 Personal Portfolio Website — Ayushi Kumari
+<div align="center">
+  
+# ❤️✨ Ayushi Kumari - My Portfolio Website ✨❤️
 
-🔗 **Live Website:** https://portfolio-ak-48.vercel.app/
+### 🚀 Frontend Engineer • MERN Stack Developer • Open Source Contributor
 
----
 
-## 📌 Project Overview
+[![🚀 Live Website](https://img.shields.io/badge/🚀%20Live%20Website-Visit%20Now-7F77DD?style=for-the-badge)](https://portfolio-ak-48.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/ayushi48)
 
-This personal developer portfolio is a professionally engineered web application designed to present my technical expertise, project work, and software development journey in a structured, scalable, and visually immersive manner. The platform emphasizes modern frontend engineering practices, performance optimization, and clean UI/UX architecture.
 
-The website serves as a technical narrative of my evolution as a developer—ranging from mastering core programming fundamentals to building production-ready full-stack applications and actively engaging in data structures, algorithms, and competitive programming. It also enables seamless communication through an integrated email-based feedback and collaboration system.
 
----
+<img src="https://img.shields.io/badge/⚡%20Modern%20Portfolio-7F77DD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎨%20Creative%20UI%2FUX-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Interactive%20Web%20Experiences-00C896?style=for-the-badge"/>
 
-## 🛠️ Technology Stack
+<br/>
 
-- **React.js** – Modular, component-driven frontend framework  
-- **Tailwind CSS** – Utility-first CSS framework for responsive and maintainable styling  
-- **Three.js / React Three Fiber** – GPU-accelerated 3D graphics and interactive visual layers  
-- **JavaScript (ES6+)** – Core scripting and application logic  
-- **EmailJS** – Client-side email service for form submissions  
-- **Vercel** – Cloud-based deployment with CI/CD and global edge delivery  
+> ### 🌟 Designed to Impress. Engineered to Perform.
+>
+> A professionally engineered personal portfolio web application showcasing technical expertise, project work, development journey, and immersive web experiences through modern frontend technologies.
 
-**Tech Keywords:** React · Tailwind CSS · Three.js · JavaScript · Vercel
+<br/>
 
----
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![EmailJS](https://img.shields.io/badge/EmailJS-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://www.emailjs.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-## ✨ Core Features & Architecture
-
-### 🎨 UI/UX & Design System
-- Dark-themed, modern interface with gradient-based visual hierarchy  
-- Consistent typography and motion-driven micro-interactions  
-- Fully responsive layout adhering to mobile-first design principles  
-
-### 🧍 Developer Profile & Experience
-- Structured presentation of technical background and expertise  
-- Clear articulation of development focus, interests, and long-term goals  
-- Strong emphasis on MERN stack development with frontend specialization  
-
-### 🛠️ Skills & Role Representation
-- Role-based visual cards showcasing:
-  - MERN Stack Developer  
-  - Frontend Engineer  
-  - Backend Engineer  
-  - Photographer (creative domain)  
-- Demonstrates cross-disciplinary proficiency combining engineering and creativity  
-
-### 📂 Project Showcase Module
-- Horizontally navigable, interactive project cards  
-- Each project highlights:
-  - Functional overview and problem statement  
-  - Technology stack and implementation details  
-  - Visual previews and UI snapshots  
-- Focus on real-world use cases and full-stack implementations  
-
-### 🧠 Problem-Solving & Learning Trajectory
-- Dedicated section outlining my technical learning curve  
-- Strong focus on algorithmic thinking, DSA, and competitive programming  
-- Practical experience across platforms:
-  - LeetCode  
-  - GeeksforGeeks  
-  - Competitive coding contests  
-
-### 🌍 3D Graphics & Visual Enhancements
-- Selective use of Three.js for interactive 3D elements  
-- Optimized rendering to maintain performance and accessibility  
-- Enhances user engagement without compromising load times  
-
-### ✉️ Communication & Feedback System
-- Integrated contact form with EmailJS backend  
-- Supports:
-  - Technical feedback  
-  - Collaboration proposals  
-  - Professional inquiries  
-- Direct, real-time email delivery  
-
-### ⚡ Performance, Optimization & Best Practices
-- Optimized asset loading and efficient rendering pipelines  
-- Reusable, maintainable, and scalable component architecture  
-- Adherence to accessibility standards and smooth user interactions  
+</div>
 
 ---
 
-## 🎯 Project Objectives
+# 📌 Overview
 
-- Technically represent my engineering skill set and development mindset  
-- Showcase projects with production-level presentation standards  
-- Document and communicate my continuous learning journey  
-- Enable seamless professional networking and collaboration  
+Ayushi Kumari's Portfolio is a technical narrative of her evolution as a developer — from mastering core programming fundamentals to building production-ready web applications, engaging in DSA and competitive programming, and crafting immersive 3D web experiences.
+
+The website is built using modern frontend engineering practices, performance optimization techniques, and clean UI/UX architecture while enabling seamless communication through an integrated email system.
 
 ---
 
-## 👩‍💻 Author
+# 🛠️ Tech Stack
 
-**Ayushi Kumari**  
-*MERN Stack Developer*
+| Layer | Technology | Purpose |
+|---------|------------|---------|
+| ⚛️ Framework | React.js | Component-based frontend architecture |
+| 🎨 Styling | Tailwind CSS | Utility-first responsive design |
+| 🌐 3D Graphics | Three.js / React Three Fiber | Interactive 3D experiences |
+| ⚙️ Language | JavaScript (ES6+) | Application logic |
+| ✉️ Email Service | EmailJS | Contact form integration |
+| 🚀 Deployment | Vercel | CI/CD and hosting |
 
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+---
+
+# ✨ Core Features
+
+## 🎨 UI/UX & Design System
+
+- Modern dark-themed interface
+- Gradient-based visual hierarchy
+- Smooth animations and micro-interactions
+- Mobile-first responsive design
+- Consistent typography and spacing system
+
+---
+
+## 🧍 Developer Profile & Experience
+
+- Professional introduction section
+- Technical expertise representation
+- Career objectives and interests
+- Development journey and growth story
+- Strong focus on frontend and MERN stack development
+
+---
+
+## 🛠️ Skills & Role Representation
+
+| Role | Domain |
+|--------|--------|
+| 🖥️ MERN Stack Developer | Full-Stack Web Development |
+| 🎨 Frontend Engineer | React, Tailwind CSS, UI/UX |
+| ⚙️ Backend Engineer | Node.js, Express.js, MongoDB |
+| 📷 Photographer | Creative Visual Storytelling |
+
+---
+
+## 📂 Project Showcase
+
+- Interactive project cards
+- Technology stack display
+- Live demo links
+- GitHub repository links
+- Project descriptions and implementation details
+- Real-world use case demonstrations
+
+---
+
+## 🧠 Problem Solving Journey
+
+A dedicated section highlighting continuous learning and problem-solving experience.
+
+| Platform | Focus Area |
+|----------|------------|
+| 🟡 LeetCode | Data Structures & Algorithms |
+| 🟢 GeeksforGeeks | Core Computer Science |
+| 🏆 Competitive Programming | Problem Solving & Optimization |
+
+---
+
+## 🌍 3D Graphics Experience
+
+- Three.js powered visual elements
+- Interactive animations
+- Optimized rendering pipelines
+- Enhanced engagement without compromising performance
+
+---
+
+## ✉️ Contact & Communication
+
+Integrated contact system powered by EmailJS.
+
+```text
+✅ Technical Discussions
+✅ Collaboration Opportunities
+✅ Professional Networking
+✅ Project Feedback
+✅ Direct Email Delivery
+````
+
+---
+
+## ⚡ Performance & Engineering
+
+* Optimized asset loading
+* Scalable component architecture
+* Maintainable codebase
+* Accessibility-focused design
+* Smooth navigation experience
+* Fast page rendering
+
+---
+
+# 🎯 Objectives
+
+* 🧠 Showcase technical expertise
+* 📂 Present projects professionally
+* 📈 Document development journey
+* 🤝 Enable networking opportunities
+* 🚀 Create a memorable digital presence
+
+---
+
+# 🌐 Live Demo
+
+<div align="center">
+
+### 🚀 https://portfolio-ak-48.vercel.app/
+
+</div>
+
+---
+
+# 👩‍💻 Author
+
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/ayushi48" width="100" alt="Ayushi Kumari"/>
+
+## Ayushi Kumari
+
+*MERN Stack Developer • Frontend Engineer • Open Source Contributor*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ayushi48-181717?style=for-the-badge\&logo=github)](https://github.com/ayushi48)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushi--kumari48-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ayushi-kumari48/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--ak--48.vercel.app-7F77DD?style=for-the-badge\&logo=vercel)](https://portfolio-ak-48.vercel.app/)
+
+</div>
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, consider giving it a star.
+
+Built with ❤️ by Ayushi Kumari
+
+</div>
+```
